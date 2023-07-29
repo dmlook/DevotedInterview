@@ -31,6 +31,6 @@ assigned anywhere, prints 0
 ## Running the Program
 
 1. Install requirements: [.NET SDK 6.0.412](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-1. Clone repo: 
-1. Navigate to project folder: `cd LookInterview/LookInterview`
+1. Clone repo: `git clone https://github.com/dmlook/DevotedInterview.git`
+1. Navigate to project folder: `cd DevotedInterview/InMemDb`
 1. Launch program: `dotnet run`
