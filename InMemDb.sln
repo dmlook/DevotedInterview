@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemDb", "InMemDb\InMemDb.csproj", "{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8EC69D-27D8-4EAC-855F-623BEBEAA6FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
